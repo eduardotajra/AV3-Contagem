@@ -1,0 +1,10 @@
+Algorithm,Count,Time(ms)
+SerialCPU,98,132
+ParallelCPU,98,138
+ParallelGPU,85,238
+SerialCPU,97,31
+ParallelCPU,97,25
+ParallelGPU,84,120
+SerialCPU,98,20
+ParallelCPU,98,18
+ParallelGPU,85,131
